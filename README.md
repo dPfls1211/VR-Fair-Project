@@ -7,7 +7,7 @@
 가상환경에서 체험할 수 있는 박람회 플랫폼 개발
 <br>진행기간 2020/10/10 - 2020/11/27
 <br><img src="https://img.shields.io/badge/Unity-FFFFFF?style=for-the-badge&logo=Unity&logoColor=black">
-<br> 맕은 역할:
+<br> 맡은 역할:
 <br>Back-End 1명, UI연결 1명,
 환경 배치 및 내부 연결 2명(본인포함)
 
